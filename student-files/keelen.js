@@ -1,4 +1,7 @@
-functon favoriteMovie(){
+'use strict';
+
+function favoriteMovie();
+{
   console.log('My Favorite movie is interstellar');
 }
 
